@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenGLRayTracer/OpenGLRayTracer.vcxproj" Id="16647450-7f7e-464f-9f76-6951b988f514" />
+</Solution>
