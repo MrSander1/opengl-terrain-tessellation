@@ -14,6 +14,6 @@ Example of Tessellation (seen through wireframe):
 ![Screenshot](OpenGLRayTracer/2.PNG)
 Example of Fog:
 ![Screenshot](OpenGLRayTracer/3.PNG)
-Example of Subdivision control (i.e. Grid Control for Terrain area):
+Example of Subdivision Control (i.e. Grid Control for Terrain area):
 ![Screenshot](OpenGLRayTracer/4.PNG)
 
