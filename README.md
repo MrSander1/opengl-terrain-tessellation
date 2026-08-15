@@ -6,3 +6,8 @@ A 3D procedural terrain generator built using OpenGL and C++. This project is si
 
 # Screenshots
 
+![Screenshot](1.PNG)
+![Screenshot](2.PNG)
+![Screenshot](3.PNG)
+![Screenshot](4.PNG)
+
